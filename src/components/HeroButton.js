@@ -5,8 +5,8 @@ function HeroButton({ title }) {
     return (
         <button 
             className="
-                py-2 
-                px-4 
+                w-40
+                h-10
                 font-semibold 
                 rounded-lg 
                 shadow-md 
