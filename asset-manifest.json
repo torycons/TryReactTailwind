@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.a56a3053.chunk.css",
-    "main.js": "./static/js/main.97fceaa2.chunk.js",
-    "main.js.map": "./static/js/main.97fceaa2.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.779f5316.js",
-    "runtime-main.js.map": "./static/js/runtime-main.779f5316.js.map",
-    "static/js/2.b7dff0aa.chunk.js": "./static/js/2.b7dff0aa.chunk.js",
-    "static/js/2.b7dff0aa.chunk.js.map": "./static/js/2.b7dff0aa.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.a56a3053.chunk.css.map": "./static/css/main.a56a3053.chunk.css.map",
-    "static/js/2.b7dff0aa.chunk.js.LICENSE.txt": "./static/js/2.b7dff0aa.chunk.js.LICENSE.txt",
-    "static/media/hero.958f22bd.jpg": "./static/media/hero.958f22bd.jpg"
+    "main.css": "/TryReactTailwind/static/css/main.a56a3053.chunk.css",
+    "main.js": "/TryReactTailwind/static/js/main.97fceaa2.chunk.js",
+    "main.js.map": "/TryReactTailwind/static/js/main.97fceaa2.chunk.js.map",
+    "runtime-main.js": "/TryReactTailwind/static/js/runtime-main.8ca864ce.js",
+    "runtime-main.js.map": "/TryReactTailwind/static/js/runtime-main.8ca864ce.js.map",
+    "static/js/2.b7dff0aa.chunk.js": "/TryReactTailwind/static/js/2.b7dff0aa.chunk.js",
+    "static/js/2.b7dff0aa.chunk.js.map": "/TryReactTailwind/static/js/2.b7dff0aa.chunk.js.map",
+    "index.html": "/TryReactTailwind/index.html",
+    "static/css/main.a56a3053.chunk.css.map": "/TryReactTailwind/static/css/main.a56a3053.chunk.css.map",
+    "static/js/2.b7dff0aa.chunk.js.LICENSE.txt": "/TryReactTailwind/static/js/2.b7dff0aa.chunk.js.LICENSE.txt",
+    "static/media/hero.958f22bd.jpg": "/TryReactTailwind/static/media/hero.958f22bd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.779f5316.js",
+    "static/js/runtime-main.8ca864ce.js",
     "static/js/2.b7dff0aa.chunk.js",
     "static/css/main.a56a3053.chunk.css",
     "static/js/main.97fceaa2.chunk.js"
